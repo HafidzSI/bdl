@@ -1,6 +1,6 @@
 
 
-var server = "http://localhost/wisatasumbar/";
+var server = "http://45.127.133.53/wisatasumbar/";
 var map;
 //var markersDua = [];
 var centerBaru;
